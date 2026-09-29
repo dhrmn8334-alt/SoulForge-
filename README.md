@@ -23,8 +23,7 @@ A virtual-currency Discord adventure RPG.
 ## Run
 1. Install Python 3.10+
 2. `pip install -r requirements.txt`
-3. Put your token in `.env` as `DISCORD_TOKEN=...`
-4. `python bot.py`
+3. `python bot.py`
 
 Never share your Discord bot token. Existing `game.db` is kept for player progress.
 
